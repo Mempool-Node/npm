@@ -1,0 +1,29 @@
+{
+  "name": "@mempoolnode/ws",
+  "version": "0.0.1",
+  "description": "Mempool Node WebSocket NPM package. An helpful utility wrapper around the underlying connection mechanism which adds useful functionality; auto-reconnects, authentication, and an easy API to use it with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mempool-Node/npm.git"
+  },
+  "keywords": [
+    "mempool",
+    "node",
+    "mempoolnode",
+    "websocket",
+    "crypto",
+    "cryptocurrency",
+    "transaction",
+    "stream"
+  ],
+  "author": "MempoolNode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mempool-Node/npm/issues"
+  },
+  "homepage": "https://github.com/Mempool-Node/npm#readme"
+}
