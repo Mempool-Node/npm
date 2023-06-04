@@ -1,6 +1,6 @@
 {
   "name": "@mempoolnode/ws",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Mempool Node WebSocket NPM package. An helpful utility wrapper around the underlying connection mechanism which adds useful functionality; auto-reconnects, authentication, and an easy API to use it with.",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "bugs": {
     "url": "https://github.com/Mempool-Node/npm/issues"
   },
-  "homepage": "https://github.com/Mempool-Node/npm#readme",
+  "homepage": "https://www.mempoolnode.com",
   "devDependencies": {
     "@types/node": "^20.2.5",
     "@types/ws": "^8.5.4",

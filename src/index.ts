@@ -1,4 +1,4 @@
-import WebSocket, { CloseEvent, ErrorEvent, MessageEvent } from 'ws';
+import { WebSocket, CloseEvent, ErrorEvent, MessageEvent } from 'ws';
 
 export type MempoolTransaction = {
     blockHash: string | null;
