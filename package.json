@@ -19,7 +19,14 @@
     "crypto",
     "cryptocurrency",
     "transaction",
-    "stream"
+    "stream",
+    "bsc",
+    "binancesmartchain",
+    "ethereum",
+    "eth",
+    "web3",
+    "blockchain",
+    "prechain"
   ],
   "author": "MempoolNode",
   "license": "ISC",
