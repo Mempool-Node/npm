@@ -1,6 +1,6 @@
 
 # Mempool Node WebSocket For Binance Smart Chain & Ethereum
-A Typescript package to help you monitor prechain mempool data for DEXs, DAPPs, & NFTs on popular blockchains such as Binance Smart Chain(BSC) and Ethereum(ETH) via [Mempool Node](https://mempoolnode.com)'s WebSocket endpoint. Receive detailed decoded data.
+A NodeJS package to help you monitor prechain mempool data for DEXs, DAPPs, & NFTs on popular blockchains such as Binance Smart Chain(BSC) and Ethereum(ETH) via [Mempool Node](https://mempoolnode.com)'s WebSocket endpoint. Receive detailed decoded data.
 
 You can either use the bundled compiled .js, or build the Typescript yourself using your own tsconfigs.
 
